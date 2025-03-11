@@ -21,27 +21,6 @@
         ]
     },
     {
-        "question": "Which of the following is a mutable data type in Python?",
-        "answers": [
-            {
-                "text": "str",
-                "isCorrect": false
-            },
-            {
-                "text": "tuple",
-                "isCorrect": false
-            },
-            {
-                "text": "list",
-                "isCorrect": true
-            },
-            {
-                "text": "int",
-                "isCorrect": false
-            }
-        ]
-    },
-    {
         "question": "What is the keyword used to define a function in Python?",
         "answers": [
             {
@@ -58,27 +37,6 @@
             },
             {
                 "text": "define",
-                "isCorrect": false
-            }
-        ]
-    },
-    {
-        "question": "Which of the following is used to create an empty set?",
-        "answers": [
-            {
-                "text": "{}",
-                "isCorrect": false
-            },
-            {
-                "text": "[]",
-                "isCorrect": false
-            },
-            {
-                "text": "set()",
-                "isCorrect": true
-            },
-            {
-                "text": "()",
                 "isCorrect": false
             }
         ]
@@ -126,48 +84,6 @@
         ]
     },
     {
-        "question": "What does the // operator do in Python?",
-        "answers": [
-            {
-                "text": "Performs integer division",
-                "isCorrect": true
-            },
-            {
-                "text": "Performs floating-point division",
-                "isCorrect": false
-            },
-            {
-                "text": "Calculates the power of a number",
-                "isCorrect": false
-            },
-            {
-                "text": "Performs a logical AND operation",
-                "isCorrect": false
-            }
-        ]
-    },
-    {
-        "question": "Which of the following is a valid variable name in Python?",
-        "answers": [
-            {
-                "text": "1_variable",
-                "isCorrect": false
-            },
-            {
-                "text": "variable_1",
-                "isCorrect": true
-            },
-            {
-                "text": "variable-1",
-                "isCorrect": false
-            },
-            {
-                "text": "variable 1",
-                "isCorrect": false
-            }
-        ]
-    },
-    {
         "question": "What is the output of type(3.14)?",
         "answers": [
             {
@@ -184,27 +100,6 @@
             },
             {
                 "text": "<class 'decimal'>",
-                "isCorrect": false
-            }
-        ]
-    },
-    {
-        "question": "Which of the following statements is used to handle exceptions in Python?",
-        "answers": [
-            {
-                "text": "catch",
-                "isCorrect": false
-            },
-            {
-                "text": "except",
-                "isCorrect": true
-            },
-            {
-                "text": "handle",
-                "isCorrect": false
-            },
-            {
-                "text": "try",
                 "isCorrect": false
             }
         ]
@@ -231,69 +126,6 @@
         ]
     },
     {
-        "question": "What does the range function do?",
-        "answers": [
-            {
-                "text": "Generates a list of numbers",
-                "isCorrect": true
-            },
-            {
-                "text": "Creates an iterator that generates a sequence of numbers",
-                "isCorrect": true
-            },
-            {
-                "text": "Creates a list of tuples",
-                "isCorrect": false
-            },
-            {
-                "text": "Generates random numbers",
-                "isCorrect": false
-            }
-        ]
-    },
-    {
-        "question": "What is the correct syntax to create a dictionary in Python?",
-        "answers": [
-            {
-                "text": "{'name': 'John', 'age': 30}",
-                "isCorrect": true
-            },
-            {
-                "text": "<'name': 'John', 'age': 30>",
-                "isCorrect": false
-            },
-            {
-                "text": "['name': 'John', 'age': 30]",
-                "isCorrect": false
-            },
-            {
-                "text": "('name': 'John', 'age': 30)",
-                "isCorrect": false
-            }
-        ]
-    },
-    {
-        "question": "Which of the following can be used to create an empty list in Python?",
-        "answers": [
-            {
-                "text": "[]",
-                "isCorrect": true
-            },
-            {
-                "text": "{}",
-                "isCorrect": false
-            },
-            {
-                "text": "()",
-                "isCorrect": false
-            },
-            {
-                "text": "set()",
-                "isCorrect": false
-            }
-        ]
-    },
-    {
         "question": "What does the method append() do in a list?",
         "answers": [
             {
@@ -315,27 +147,6 @@
         ]
     },
     {
-        "question": "How do you create a tuple in Python?",
-        "answers": [
-            {
-                "text": "[]",
-                "isCorrect": false
-            },
-            {
-                "text": "{}",
-                "isCorrect": false
-            },
-            {
-                "text": "()",
-                "isCorrect": true
-            },
-            {
-                "text": "tuple[]",
-                "isCorrect": false
-            }
-        ]
-    },
-    {
         "question": "What is the output of print(3 == 3.0)?",
         "answers": [
             {
@@ -352,27 +163,6 @@
             },
             {
                 "text": "3.0",
-                "isCorrect": false
-            }
-        ]
-    },
-    {
-        "question": "What is the keyword to define a class in Python?",
-        "answers": [
-            {
-                "text": "function",
-                "isCorrect": false
-            },
-            {
-                "text": "def",
-                "isCorrect": false
-            },
-            {
-                "text": "class",
-                "isCorrect": true
-            },
-            {
-                "text": "module",
                 "isCorrect": false
             }
         ]
